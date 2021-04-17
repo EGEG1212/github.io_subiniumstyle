@@ -23,13 +23,11 @@ toc: true
 
 ## 설치 확인
 
-````python
+```python
 import sklearn
 
-sklearn.__version__```
-
-
-
+sklearn.__version__
+```
 
 |**강좌정보**|[Tacademy강좌링크](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action)|
 |**학습내용**|1. Scikit-Learn(사이킷런)을 이용한 데이터 전처리, 모델링, 모델 검증 방법에 대해 알아본다.|
@@ -43,5 +41,3 @@ sklearn.__version__```
 ||- [x] [4강] 분류(Classification)|
 ||- [x] [5강] 검증(Validation)|
 ||- [x] [6강] Kaggle 속 사이킷런 활용|
-
-````
