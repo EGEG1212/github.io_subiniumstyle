@@ -41,3 +41,4 @@ sklearn.__version__
 |              | [4강] 분류(Classification)                                                                                                                                    |
 |              | [5강] 검증(Validation)                                                                                                                                        |
 |              | [6강] Kaggle 속 사이킷런 활용                                                                                                                                 |
+|  **GitHub**  | <https://github.com/EGEG1212/Machine-Learning-2020/tree/main/99.scikit%20learn>                                                                               |
