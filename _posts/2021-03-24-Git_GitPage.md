@@ -15,7 +15,7 @@ toc: true
 
 > GitHub를 사용하고 있기는 한데... 잘 모르겠다😒
 > 뭔가 더 좋은 기능들이 있을텐데.. 잘 모르겠다😢
-> 그래서 이 강좌들을 듣게 되었다!
+> 그래서 이 강좌들을 듣게 되었는데,
 > git commit으로 나의 Git Page(블로그 같은것)가 생긴다니!! 놀랍다😲
 > 안수빈님의 설명은 어벤져스로 예시를 들어주셔서 너무 재미있었다 ㅋㅋㅋ
 
@@ -30,7 +30,7 @@ toc: true
 |              | [3강] GitHub 실습 II - Pull, Fetch, Reset, Revert, Stash, Fork, Push                                                                            |
 |              | [4강] Github Page 활용하기 실습                                                                                                                 |
 
-안수빈님의 수비니움 깃헙페이지 <https://subinium.github.io/>
+안수빈님의 수비니움 <https://subinium.github.io/>
 
 <br><br>
 
@@ -52,4 +52,5 @@ toc: true
 |              | [2강] git 일일커밋 후기                                                                                                                                                                                                                                                                            |
 |              | [3강] GihHub에서 리퍼지토리 작성 실습                                                                                                                                                                                                                                                              |
 |              | [4강] GitHub에서 Pull Request 실습                                                                                                                                                                                                                                                                 |
+
 이수진님의 <https://sujinlee.me/professional-github/>
