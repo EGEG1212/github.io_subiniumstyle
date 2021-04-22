@@ -20,7 +20,7 @@ title                    : "코딩일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "정은경의 코딩일지" #맨아래 작은글씨
-description              : "음성인식 음성합성에 관련된 공부하는 정은경입니다_가끔 엉뚱한걸 시도하기도 합니다ㅋ.ㅋ"
+description              : "음성인식/ 음성합성/ 음성책봇에 관련된 공부하는 정은경입니다_가끔 엉뚱한걸 시도하기도 합니다ㅋ.ㅋ"
 url                      : "https://egeg1212.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "WORKSPACE/blog_blog"
