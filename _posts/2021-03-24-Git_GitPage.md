@@ -8,7 +8,7 @@ author_profile: true
 sidebar_main: true
 use_math: true
 
-toc: true
+toc: trues
 ---
 
 # 1. Git & GitHub Page
@@ -54,3 +54,29 @@ toc: true
 |              | [4강] GitHub에서 Pull Request 실습                                                                                                                                                                                                                                                                 |
 
 이수진님의 <https://sujinlee.me/professional-github/>
+
+<br><br>
+
+# 3. Jekyll 기반의 GitHub Page 생성
+
+| **강좌정보** | Jekyll 기반의 GitHub Page 생성 [YouTube링크](https://www.youtube.com/playlist?list=PL7nkwz9MkASx1wxXK51n7KtwQyXgoNL70) |
+| :----------: | :--------------------------------------------------------------------------------------------------------------------- |
+| **학습내용** | Jekyll 기반의 GitHub Page 생성                                                                                         |
+|   **강사**   | 얼큰우동TV                                                                                                             |
+| **학습기간** | 2021.04.20~ **이수중**                                                                                                 |
+| **학습시간** |                                                                                                                        |
+| **강의목록** | [1강] Jekyll 기반의 GitHub Page 생성(1) - 환경설정                                                                     |
+|              | [2강] Jekyll 기반의 GitHub Page 생성(2-1) - 환경설정파일                                                               |
+|              | [3강] Jekyll 기반의 GitHub Page 생성(2-2) - author와 tags 설정                                                         |
+|              | [4강] Jekyll 기반의 GitHub Page 생성(2-3) - 메뉴와 글 올리기                                                           |
+|              | [5강] Jekyll 기반의 GitHub Page 생성(2-4) - Archive설정 및 이미지설정                                                  |
+|              | [6강] Jekyll 기반의 GitHub Page 생성(2-5) - post목차 설정                                                              |
+|              | [7강] Jekyll 기반의 GitHub Page 생성(2-6) - publishing                                                                 |
+|              | [8강] Jekyll 기반의 GitHub Page 생성(3) - 웹 폰트 설정                                                                 |
+|              | [9강] Jekyll 기반의 GitHub Page 생성(4) - rouge를 이용한 syntax higlighting                                            |
+|              | [10강] Jekyll 기반의 GitHub Page 생성(5) - lunr.js를 이용한 Search 기능 추가                                           |
+|              | [11강] Jekyll 기반의 GitHub Page 생성(6) - Google Search Console 활용                                                  |
+|              | [12강] Jekyll 기반의 GitHub Page 생성(7) - GitHub Gist 활용                                                            |
+|              | [13강] Jekyll 기반의 GitHub Page 생성(8) - Travis CI 활용                                                              |
+
+얼큰우동TV의 <https://moon9342.github.io>
